@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
 title : A Decision-Based Dynamic Ensemble Selection Method for Concept Drift
+show_downloads: true
